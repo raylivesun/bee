@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+      <property>
+             <name>
+                  <title>bee program language comprihencively</title>
+             </name>
+          <program name="bee" markets="business" lang="beeprogram.org">
+              <bee>
+                  <business>
+                       <beeprogram>
+                            <lang>http://www.beeprogram.org</lang>
+                       </beeprogram>  
+                  </business>
+              </bee>
+          </program>
+          <engine>
+               <let name="variables">
+                    <variables types="names">
+                            <names>
+                            <!-- bee program languages variables  -->  
+                            </names>
+                    </variables>
+                    <command>
+                          <banana numbers="values">
+                               <values items="packages">
+                                     <packages names="numbers">
+                                            <number>
+                                            <!-- bee program languages command banana packages numbers -->
+                                            </number>
+                                     </packages>
+                               </values>
+                          </banana>
+                          <gapesfruit>
+                                <float numbers="values">
+                                       <values names="color">
+                                            <color style="blues">
+                                                 <blues>
+                                                 <!--bee program languages quality of command float color blue-->
+                                                 </blues>
+                                            </color>
+                                       </values>
+                                </float>
+                          </gapesfruit>
+                          <of>
+                             <conjution_variables name="float|int|string">
+
+                                <float>
+                                <!--bee program languages conjution of command float-->
+                                </float>
+                                
+                                <int>
+                                <!--bee program languages conjution of command int -->
+                                </int>
+
+                                <string>
+                                <!--bee program languages conjution of command string -->
+                                </string>
+
+                             </conjution_variables>
+                          </of>
+                        <leaf>
+                             <conjution_variables names="Node|int|Tree">
+                                
+                                <node>
+                                <!-- bee program language command conjution of variables  -->
+                                </node>
+
+                                <int>
+                                <!-- bee program language command conjution of variables  -->
+                                </int>
+                                <tree>
+                                <!-- bee program language command conjution of variables  -->
+                                </tree>
+                             </conjution_variables>
+                        </leaf>
+                    <parameters names="Types|Leaf|Node">
+                          <types>
+                           <!-- bee program languages types or parameters --> 
+                          </types>
+                          <leaf>
+                          <!-- bee program languages types or parameters --> 
+                          </leaf>
+                          <node>
+                          <!-- bee program languages types or parameters --> 
+                          </node>
+                     </parameters>
+                     <rec name="rec">
+                     <!--bee program languages decorables--> 
+                     </rec>
+                     <list name="nil|cons">
+                      <nil>
+                      <!--bee program languages list nil-->
+                      </nil>
+                      <cons>
+                      <!--bee program languages list cons-->
+                      </cons>
+                     </list>
+                    </command>
+               </let>
+               <types>
+                     <quality_variables name="types_variables">
+                            <types_variables types="names">
+                               <names>
+                                <!-- bee program languages variables types --> 
+                               </names>
+                            </types_variables>
+                     </quality_variables>
+               </types>
+          </engine>   
+      </property>
+</window>
